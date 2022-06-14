@@ -95,4 +95,3 @@ payload:
   - '+.appcloud.zhihu.com'
   - '+.dm.pstatp.com'
   - '+.dl.pstmn.io'
-  - '+.sync-xi.getpostman.com'
