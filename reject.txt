@@ -95,3 +95,5 @@ payload:
   - '+.appcloud.zhihu.com'
   - '+.dm.pstatp.com'
   - '+.dl.pstmn.io'
+  - 'updatepro.wps.cn'
+  - 'wps.crcc.cn'
